@@ -39,5 +39,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 2. **Designer Surface:** Arrange and resize the dropped items on the designer surface.
 3. **Properties Panel:** Click on an item on the designer surface to adjust its properties in the properties panel on the right side of the screen.
 
-## Project Structure
-
+ 
